@@ -1,0 +1,9 @@
+name: Tamable_Zombies
+version: 1.0
+main: me.MnMaxon.WolfZombies.Main
+depend: [ProtocolLib, LibsDisguises]
+commands:
+   TamableZombies:
+      description: Displays Help
+   TZ:
+      description: Displays Help
